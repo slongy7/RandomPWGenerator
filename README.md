@@ -1,10 +1,10 @@
 Random Password Generator
 
-This project had me learn how to make a Random Password Generator using mostly JavaScript.  This is an important skill to develop as it teaches us how to develop things using JavaScript, as well as how to develop things using random functions in JavaScript.
+This project had me learn how to make a Random Password Generator using mostly JavaScript. This is an important skill to develop as it teaches us how to develop things using JavaScript, as well as how to develop things using random functions in JavaScript.
 
-Bugs:  I had some issues with the questions square popping up when the page was refreshed, as opposed to when the "Generate Password" button was pushed.  I also had trouble having the generated password showing up in the provided square.
+Bugs: I had some issues with the questions square popping up when the page was refreshed, as opposed to when the "Generate Password" button was pushed. I also had trouble having the generated password showing up in the provided square.
 
-This project has motivated me study JavaScript more than I thought I would.  I have already started to do that as I was working on this assignment as well.
+This project has motivated me study JavaScript more than I thought I would. I have already started to do that as I was working on this assignment as well.
 
 Credits: I had help from several of my study group members, as well as my tutor and TA
 
