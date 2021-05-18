@@ -8,6 +8,9 @@ This project has motivated me study JavaScript more than I thought I would. I ha
 
 Credits: I had help from several of my study group members, as well as my tutor and TA
 
+![3E7DE4DE-207B-410F-93AD-BE1A712D9EA0_1_105_c](https://user-images.githubusercontent.com/79759725/118585077-2cbc0980-b766-11eb-8b58-b0f603bd42b9.jpeg)
+
+
 The MIT License (MIT)
 
 Copyright (c) .NET Foundation and Contributors
